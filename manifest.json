@@ -1,0 +1,26 @@
+{
+  "boards": {
+    "pi5": {
+      "file": "pi5/kernel_2712.img",
+      "size": 2430856,
+      "md5": "6bba8fb489b1b3e03b7163a031b2a7af",
+      "fnv64": "01f9a43bb4c95006",
+      "build": "Sep 13 2026 17:40:44"
+    },
+    "pi4": {
+      "file": "pi4/kernel8.img",
+      "size": 2443096,
+      "md5": "4495af837ba618e12458ac46c8bbda51",
+      "fnv64": "d8692e56aca0a047",
+      "build": "Sep 13 2026 17:40:45"
+    },
+    "pi3": {
+      "file": "pi3/kernel.img",
+      "size": 2458132,
+      "md5": "a7cd4c692ff1a88e31db0448a17fbb31",
+      "fnv64": "c1b28370cc75957b",
+      "build": "Sep 13 2026 17:41:48"
+    }
+  },
+  "updated": "2026-09-13T08:53:00+00:00"
+}
