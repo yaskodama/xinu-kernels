@@ -10,17 +10,17 @@
     "pi4": {
       "file": "pi4/kernel8.img",
       "size": 2455576,
-      "md5": "397fb5d35ff5fd133c3f91c1cf596813",
-      "fnv64": "c46971a4ad76038e",
-      "build": "Sep 13 2026 17:59:04"
+      "md5": "2dffc7e6194e23eca989ce04e8355e52",
+      "fnv64": "cd7c0b282073a53a",
+      "build": "Sep 13 2026 18:08:40"
     },
     "pi3": {
       "file": "pi3/kernel.img",
-      "size": 2463092,
-      "md5": "5c976f07cb117bd9abec0f986f57151e",
-      "fnv64": "ed688ca52695bea9",
-      "build": "Sep 13 2026 17:59:59"
+      "size": 2463540,
+      "md5": "6f398ed6bdf65116390141717308ef95",
+      "fnv64": "e30b12574d8042f2",
+      "build": "Sep 13 2026 18:08:40"
     }
   },
-  "updated": "2026-09-13T09:00:30+00:00"
+  "updated": "2026-09-13T09:08:46+00:00"
 }
